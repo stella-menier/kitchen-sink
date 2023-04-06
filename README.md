@@ -1,6 +1,4 @@
 # kitchen-sink
-no
-
 <h2 align="left">This account is v fresh</h2>
 
 ###
